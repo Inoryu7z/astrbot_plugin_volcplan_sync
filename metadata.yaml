@@ -1,0 +1,6 @@
+name: astrbot_plugin_volcplan_sync
+display_name: 火山Plan 模型同步
+description: 把火山引擎 Agent Plan 的服务商来源与官方文字模型清单自动同步进 AstrBot 配置，重载时版本比对幂等写入
+version: 1.0.0
+author: Inoryu7z
+repo: https://github.com/Inoryu7z/astrbot_plugin_volcplan_sync

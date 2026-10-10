@@ -1,0 +1,7 @@
+{
+  "api_key": {
+    "description": "火山引擎 Agent Plan API Key（ark- 开头），可选。配置中不存在「火山Plan」来源时随来源一起写入；不填则来源的 key 使用占位值，之后在 WebUI 服务商配置中改为真实 key。来源已存在则不读取、不覆盖。",
+    "type": "string",
+    "default": ""
+  }
+}
